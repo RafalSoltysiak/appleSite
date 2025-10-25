@@ -3,7 +3,6 @@ import clsx from "clsx";
 import { useMediaQuery } from "react-responsive";
 
 import useMacbookStore from "../store";
-import MacbookModel14 from "./models/Macbook-14";
 import StudioLights from "./models/three/StudioLights";
 import ModelSwitcher from "./models/three/ModelSwitcher";
 
